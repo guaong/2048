@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="again">重玩</string>
+</resources>
